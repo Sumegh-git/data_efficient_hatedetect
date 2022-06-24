@@ -1,4 +1,4 @@
-# explicit_implicit_hate
+# data_efficient_hatedetect
 
 `probe.py` contains the code for probing layers to understand the correlation between explicit and implicit hatespeech.
 
